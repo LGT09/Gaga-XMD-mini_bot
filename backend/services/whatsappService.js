@@ -80,7 +80,7 @@ const sendWelcomeMessage = () => {
     `${adminNumber}@s.whatsapp.net`,
     {
       image: { 
-        url: 'https://github.com/Mahii-Botz/Mahii-md-LOGO/blob/main/ChatGPT%20Image%20Apr%2021,%202025,%2005_32_50%20PM.png?raw=true'
+        url: 'https://files.catbox.moe/hvljlp.jpg'
       },
       caption: 'WhatsApp Bot connected successfully ✅'
     }
