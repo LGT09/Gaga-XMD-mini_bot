@@ -1,7 +1,7 @@
 module.exports = {
   whatsapp: {
     prefix: process.env.PREFIX || '.',
-    ownerNumber: process.env.OWNER_NUM || '1234567890',
+    ownerNumber: process.env.OWNER_NUM || '263716857999',
     mode: process.env.MODE || 'public',
     autoReadStatus: process.env.AUTO_READ_STATUS === 'true',
     autoRecording: process.env.AUTO_RECORDING === 'true'
