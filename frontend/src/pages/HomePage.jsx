@@ -63,9 +63,9 @@ const HomePage = ({ setActiveSession }) => {
             fullWidth
             value={adminNumber}
             onChange={(e) => setAdminNumber(e.target.value)}
-            placeholder="e.g., 94712345678"
+            placeholder="e.g., 263780078177"
             sx={{ mb: 2 }}
-            helperText="Include country code without + or 00"
+            helperText="Include country🇿🇼 code without + or 00"
           />
           
           <Button 
